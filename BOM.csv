@@ -1,0 +1,38 @@
+Component,Part Number,Qty,Unit Cost (₹),Total Cost (₹),Unit Cost (USD),Total (USD),Source,Link Notes
+Microcontroller,ESP32-WROOM-32 DevKit,1,400,400,5,5,Aliexpress,"Search: ESP32 DevKit WROOM-32"
+RF Detector IC,AD8317,1,150,150,2,2,Aliexpress/Ebay,"Search: AD8317 log amp RF detector"
+Antenna,Dipole/Monopole 2.4GHz,1,75,75,1,1,DIY or Aliexpress,"DIY: 30mm wire, or buy ready-made stub antenna"
+IR LED Array,WS2812B RGB 16-LED Ring,1,250,250,3,3,Aliexpress,"Search: WS2812B 16LED ring, or NeoPixel ring"
+Phototransistor,BPW40,1,120,120,1.5,1.5,Aliexpress/Ebay,"Search: BPW40 phototransistor"
+Transimpedance Opamp,MCP6001,1,40,40,0.5,0.5,Aliexpress/Local,"General-purpose opamp, rail-to-rail"
+OLED Display,SSD1306 128x64 0.96",1,180,180,2.5,2.5,Aliexpress,"Search: SSD1306 OLED 0.96 I2C"
+LiPo Battery,3.7V 2000mAh 1S JST-PH,1,300,300,4,4,Aliexpress,"Search: 3.7V 2000mAh LiPo battery"
+LiPo Charger Module,TP4056 with protection,1,65,65,1,1,Aliexpress,"Search: TP4056 LiPo charger module"
+Boost Converter,SX1308 3.7V to 5V,1,75,75,1,1,Aliexpress,"Search: SX1308 DC-DC boost converter"
+Resistors,1/4W Assorted (1k-1M),30,2,60,0.02,0.6,Local stock,"Common values: 1k, 10k, 100k, 1M"
+Capacitors,Ceramic/Electrolytic Assorted,30,2,60,0.05,1.5,Local stock,"Common values: 10nF, 100nF, 1µF, 10µF"
+Inductors,Ferrite Bead + 10µH,5,3,15,0.05,0.25,Local stock,"For power supply filtering"
+Push Buttons,6x6mm Tactile Switch,4,5,20,0.1,0.4,Local stock,"4 buttons: SCAN, MENU, UP, DOWN"
+Buzzer,5V Passive Piezo,1,30,30,0.5,0.5,Local stock,"Generates 1kHz tone for alerts"
+Vibration Motor,10mm Coin Type 3.7V,1,100,100,1.5,1.5,Aliexpress,"Search: 10mm vibration motor"
+Connectors,Micro USB + JST connectors,1,50,50,0.7,0.7,Local stock,"USB for charging, JST for battery"
+PCB Fabrication,2-layer 60x40mm (qty 10),10,200,2000,3,30,JLCPCB,"www.jlcpcb.com - order 10 units"
+Enclosure,3D Printed PLA/PETG,1,200,200,3,3,DIY/Local,"Thingiverse search: hand-held detector box"
+Solder,Lead-free solder wire,1,50,50,1,1,Local stock,"For assembly"
+Header Pins,2.54mm Male/Female,1,30,30,0.5,0.5,Local stock,"For modular connections"
+Heatshrink Tubing,Assorted sizes,1,20,20,0.3,0.3,Local stock,"Wire insulation"
+,,,,,,
+TOTAL SINGLE UNIT (approx),,1,2400,2400,30,30,,
+TOTAL FOR 10-UNIT BATCH (approx),,10,15000,15000,20,200,,
+,,,,,,
+OPTIONAL COMPONENTS:,,,,,,,
+Thermal Sensor,MLX90614 IR Thermometer,1,250,250,3.5,3.5,Aliexpress,"I2C interface, optional for V1"
+Ferrite Shielding,Aluminum EMI shielding tape,1,100,100,1.5,1.5,Aliexpress,"For RF shielding if needed"
+Test Equipment,Multimeter (budget),1,500,500,6,6,Local,"For troubleshooting and calibration"
+,,,,,,
+SOURCING TIPS:,,,,,,,
+"1. Aliexpress",Bulk orders - cheapest but 2-4 week shipping,,,,,
+"2. JLCPCB",Fast PCB turnaround - 5-7 days,,,,,
+"3. Local Shops",Resistors/capacitors - same day delivery,,,,,
+"4. Ebay",US/EU vendors - faster than Aliexpress,,,,,
+"5. Mouser/Digi-Key",Premium components - high reliability,,,,,
